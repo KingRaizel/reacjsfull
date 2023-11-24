@@ -20,3 +20,9 @@ input {
 .kg-btn {
   min-width: 80px;
 }
+
+.welcome-mssg {
+  font-size: 30px;
+  margin-top: 40px;
+  font-weight: 600;
+}
